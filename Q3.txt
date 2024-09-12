@@ -1,0 +1,18 @@
+los paquetes se instalan:
+    yarn add nombre-del-paquete
+Por ejemplo, si quieres instalar express
+    yarn add express
+
+Algunos modificadores útiles:
+    yarn add nombre-del-paquete --dev: Instala un paquete como dependencia de desarrollo.
+    yarn add nombre-del-paquete@version: Instala una versión específica de un paquete.
+
+¿Cómo se borran paquetes con Yarn?
+    yarn remove nombre-del-paquete
+
+¿Hay algún equivalente en Yarn que haga lo mismo que npm init?
+    Sí, el equivalente en Yarn para npm init es:
+        yarn init
+
+valores predeterminados, puedes usar:
+    yarn init -y

@@ -1,0 +1,4 @@
+El comando npm init 
+    se utiliza para inicializar un proyecto de Node.js
+    crea un archivo package.json que contiene metadatos sobre el proyecto, cono el nombre, versión autor, dependencias, scripts, entre otros
+Este archivo es esencial para manejar las dependencias del proyecto y para automatizar tareas mediante scripts.
